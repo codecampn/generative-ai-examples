@@ -10,6 +10,11 @@ This repository will grow over time, in case you encounter issues with examples 
 
 You probably should sign up at https://openai.com/ and get an API key before you start. Other than that we try to avoid additional service accounts.
 
+## Trying out the examples
+
+You can either run the examples locally in [Jupyter Notebook](https://jupyter.org/try) or use a service 
+like [Google Colab](https://colab.research.google.com/)
+
 ## Current examples
 
 ### ✉️ Detect a throw away mail address
