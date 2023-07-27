@@ -18,6 +18,7 @@ like [Google Colab](https://colab.research.google.com/)
 ## Current examples
 
 ### ✉️ Detect a throw away mail address
+> 🧪 [Try it in Google Colab!](https://colab.research.google.com/github/codecampn/generative-ai-examples/blob/main/examples/detect-throw-away-mail.ipynb)
 
 [Jupyter notebook](./examples/detect-throw-away-mail.ipynb)
 
