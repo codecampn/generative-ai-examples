@@ -23,3 +23,10 @@ like [Google Colab](https://colab.research.google.com/)
 [Jupyter notebook](./examples/detect-throw-away-mail.ipynb)
 
 You don't want users from anonymous mail providers to register at your service. But keeping a list of all providers is tedious. Use an autonomous agent to google a users domain and figure out whether it is a disposable mail provider.
+
+### 📄 Query a document (for example a german law) for specific information 
+> 🧪 [Try it in Google Colab!](https://colab.research.google.com/github/codecampn/generative-ai-examples/blob/main/examples/query-documents.ipynb)
+
+[Jupyter notebook](./examples/query-documents.ipynb)
+
+You have a law text and want your agent to respond to questions with the regulations defined in this law. We'll use a vector database (Chroma) that provides additional context for the agent.
